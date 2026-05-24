@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AlexPraewa No Refund Club//Wedding RSVP//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:alex-praewa-wedding-20261219@alexpraewanorefund
+DTSTAMP:20260524T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Alex & Praewa Wedding
+LOCATION:Robinswood Golf Club, 888 Lam Sai, Lam Luk Ka, Pathum Thani, Thailand 12150
+DESCRIPTION:Black attire. RSVP at https://kikos38.github.io/
+END:VEVENT
+END:VCALENDAR
